@@ -1,4 +1,4 @@
-# 💫 About Me:
+#About:
 Currently working and building tools to work with images of the face. 
 
 
